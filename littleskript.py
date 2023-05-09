@@ -6,4 +6,4 @@ print('hello')
 
 a = np.zeros([1,10])
 
-print(a)
+print(a*a)
