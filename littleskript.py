@@ -2,7 +2,7 @@
 
 import numpy as np
 
-print('hello')
+print('hello you')
 
 a = np.zeros([1,10])
 
