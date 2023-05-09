@@ -3,7 +3,7 @@
 
 .. serious topics will follow sooon - stay tuned ;)
 
-IF YOU KNOW HOW TO REMOVE THE .DS_Store thing on Mac please let me know 
+if you know how to remove the .DS_Store shit thing on Mac please let me know 
 
 - 👋  Hi, I’m @felfab123 - studying Electrical Engineering
 - 👀  I’m interested in all kinds of Control Engineering, Signal Processing, Optimization Problems and physiological Tasks. I use Matlab, Phyton, VBA 
